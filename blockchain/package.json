@@ -1,0 +1,15 @@
+{
+  "name": "meditrace-blockchain",
+  "version": "1.0.0",
+  "description": "MediTrace Smart Contract Layer for Medicine Supply Chain Traceability",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run deploy.js --network localhost"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}

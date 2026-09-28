@@ -1,0 +1,10 @@
+{
+    "total_transaction_count": 100,
+    "anomaly_count": 10,
+    "anomaly_percentage": 10.0,
+    "low_risk_count": 82,
+    "medium_risk_count": 11,
+    "high_risk_count": 7,
+    "average_risk_score": 22.92,
+    "evaluation_timestamp": "2026-09-24T10:09:41.636730"
+}

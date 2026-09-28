@@ -1,0 +1,8 @@
+supplier_id,total_transactions,suspicious_transactions,avg_risk_score,high_risk_count,avg_delivery_days,avg_temperature,suspicion_rate_pct
+SUP-SHADOWTRADE-B,2,2,93.48,2,10.0,11.8,100.0
+SUP-UNVERIFIED-A,2,2,90.54,2,25.5,17.96,100.0
+SUP-FASTDISTRIB,11,1,24.76,1,5.5,16.08,9.09
+SUP-MEDILINK,22,2,23.42,2,5.3,15.18,9.09
+SUP-PHARMAPLUS,33,2,19.65,0,3.6,17.79,6.06
+SUP-BIOCARE,15,1,17.68,0,3.3,15.08,6.67
+SUP-GLOBALHEALTH,15,0,14.87,0,3.6,15.88,0.0
